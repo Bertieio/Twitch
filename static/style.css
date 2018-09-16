@@ -1,0 +1,13 @@
+body{
+    margin: 0 auto;
+}
+
+
+#bottomBar{
+    position: fixed;
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,.75) 0%, rgba(0,0,0,0) 95%);
+    height: 50px;
+    width: 100%;
+    bottom: 0;
+}
